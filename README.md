@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
+##### NOTE: Need to import code in your system for full functionality of get/post/put/delete(i.e. CRUD operations) and start JSON SERVER by hitting command "json-server --watch db.json" in the respective path on terminal.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
