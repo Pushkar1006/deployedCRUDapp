@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Apple Iphone",
+      "category": "Mobile Phones",
+      "freshness": "Brand New",
+      "price": 65000,
+      "comment": "Nice mobile with good features and specifications.",
+      "date": "2022-07-30T18:30:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
